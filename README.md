@@ -11,8 +11,8 @@ The project emphasizes the practical application of programming fundamentals, ob
 
 Objectives:
 The key objectives of this project are:
-To design and implement a functional desktop banking system
-To apply object-oriented programming concepts using C++
-To ensure data persistence using file handling techniques
-To develop a user-friendly GUI using SFML
-To simulate real-world banking rules such as minimum balance enforcement
+To design and implement a functional desktop banking system ,
+To apply object-oriented programming concepts using C++ ,
+To ensure data persistence using file handling techniques ,
+To develop a user-friendly GUI using SFML , 
+To simulate real-world banking rules such as minimum balance enforcement 
